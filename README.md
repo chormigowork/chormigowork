@@ -71,7 +71,7 @@ Each repository will include complete documentation, architecture, installation 
 
 # 📫 Connect with me
 
-💼 LinkedIn (www.linkedin.com/in/carles-hormigo-bofill-99a2703b)
+💼 www.linkedin.com/in/carles-hormigo-bofill-99a2703b
 
 📧 chormigowork@gmail.com
 
