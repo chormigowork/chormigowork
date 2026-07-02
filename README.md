@@ -45,34 +45,18 @@ Throughout my academic journey I have focused on developing complete projects, c
 
 ---
 
-# 📂 Featured Projects
+## 🚀 Current Projects
 
-## 🩺 Clinical Documentation with Generative AI
+I'm currently preparing my portfolio repositories.
 
-Automatic generation of structured clinical documentation using **Generative AI** and the **MIMIC-IV** dataset.
+The first public projects will include:
 
-**Technologies**
+- 🩺 Clinical Documentation with Generative AI
+- 📈 Time Series Forecasting
+- 🍽 Intelligent Recommendation System
+- 🕸 Python Web Scraping Platform
 
-Python • NLP • Prompt Engineering • Generative AI
-
----
-
-## 🍽 Intelligent Recommendation System
-
-AI-based recommendation system designed to improve personalised restaurant suggestions.
-
----
-
-## 📈 Time Series Forecasting
-
-Predictive models using **XGBoost** and **LSTM** for forecasting complex temporal data.
-
----
-
-## 🕸 Web Scraping Platform
-
-Python application for automated extraction, processing and visualisation of structured information.
-
+Each repository will include complete documentation, architecture, installation guide and technical explanations.
 ---
 
 # 🌱 Currently Learning
